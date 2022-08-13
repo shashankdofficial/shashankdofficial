@@ -36,3 +36,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shashankdofficial&show_icons=true&locale=en" alt="shashankdofficial" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shashankdofficial&" alt="shashankdofficial" /></p>
+
+---
+<p align="center"> © 2022 Shashank Dubey, all rights reserved. Made with ❤️ for a better web. </p>
+<p align="center">
+ https://portfolio-bay-ten-70.vercel.app/
+</p>
