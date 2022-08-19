@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shashank Dubey</h1>
 
-![Shashank Dubey](https://user-images.githubusercontent.com/101566598/185619194-dadf4bf7-48f6-47a4-882d-0f14d8e67024.gif)
+![Shashank Dubey 3](https://user-images.githubusercontent.com/101566598/185621248-cc12a3b0-5acd-427f-9587-bda82e24857d.gif)
 
 
 <h3 align="center">I am an aspiring and diligent Java Backend Developer. Determined problem solver, with 600+ hours of hands-on coding experience. Dependable team player, enthusiastic to work on projects at company. Bringing forth a motivated attitude and a variety of powerful skills. Capable of writing production ready code.</h3>
