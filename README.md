@@ -37,7 +37,7 @@
 
 <p><img align="center" width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=shashankdofficial&" alt="shashankdofficial" /></p>
 
-### ✍️ Random Dev Quote
+### ✍️ Development Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
