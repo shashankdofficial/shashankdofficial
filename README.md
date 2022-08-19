@@ -17,8 +17,6 @@
 
 - 📫 How to reach me **allyouget14@gmail.com**
 
-- 📄 Know about my experiences [RESUME](https://drive.google.com/file/d/1F62sUgUEItRoIf6AXhd0UIRRFztnI-Di/view?usp=sharing)
-
 - ⚡ Fun fact **I love tech thing.**
 
 <h3 align="left">Connect with me:</h3>
