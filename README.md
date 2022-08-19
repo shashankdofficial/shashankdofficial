@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Shashank Dubey</h1>
-<h3 align="center">JAVA Backend Developer from India</h3>
+<h3 align="center">I am an aspiring and diligent Java Backend Developer. Determined problem solver, with 600+ hours of hands-on coding experience. Dependable team player, enthusiastic to work on projects at company. Bringing forth a motivated attitude and a variety of powerful skills. Capable of writing production ready code.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shashankdofficial&label=Profile%20views&color=0e75b6&style=flat" alt="shashankdofficial" /> </p>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shashankdofficial" alt="shashankdofficial" /></a> </p> -->
-
-<p align="left"> <a href="https://twitter.com/shashankrdubey" target="blank"><img src="https://img.shields.io/twitter/follow/shashankrdubey?logo=twitter&style=for-the-badge" alt="shashankrdubey" /></a> </p>
 
 - 🌱 I’m currently learning **Java Backend Development**
 
