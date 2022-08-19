@@ -13,11 +13,11 @@
 
 - 🌱 I’m currently learning **Java Backend Development**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-bay-ten-70.vercel.app/](https://portfolio-bay-ten-70.vercel.app/)
+- 👨‍💻 All of my projects are available at [Shashank Dubey](https://portfolio-bay-ten-70.vercel.app/)
 
 - 📫 How to reach me **allyouget14@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1F62sUgUEItRoIf6AXhd0UIRRFztnI-Di/view?usp=sharing](https://drive.google.com/file/d/1F62sUgUEItRoIf6AXhd0UIRRFztnI-Di/view?usp=sharing)
+- 📄 Know about my experiences [RESUME](https://drive.google.com/file/d/1F62sUgUEItRoIf6AXhd0UIRRFztnI-Di/view?usp=sharing)
 
 - ⚡ Fun fact **I love tech thing.**
 
@@ -45,7 +45,4 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-<p align="center"> © 2022 Shashank Dubey, all rights reserved. Made with ❤️ for a better web. </p>
-<p align="center">
- https://portfolio-bay-ten-70.vercel.app/
-</p>
+<p align="center">© 2022 <a href="https://portfolio-bay-ten-70.vercel.app/" target="_blank">Shashank Dubey</a>, all rights reserved. Made with ❤️ for a better web. </p>
