@@ -3,7 +3,7 @@
 ![Shashank Dubey 3](https://user-images.githubusercontent.com/101566598/185621248-cc12a3b0-5acd-427f-9587-bda82e24857d.gif)
 
 
-<h3 align="center">I am an aspiring and diligent Java Backend Developer. Determined problem solver, with 600+ hours of hands-on coding experience. Dependable team player, enthusiastic to work on projects at company. Bringing forth a motivated attitude and a variety of powerful skills. Capable of writing production ready code.</h3>
+<h3 align="center">I am an aspiring and diligent Java Backend Developer. Determined problem solver, with 1500+ hours of hands-on coding experience. Dependable team player, enthusiastic to work on projects at company. Bringing forth a motivated attitude and a variety of powerful skills. Capable of writing production ready code.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shashankdofficial&label=Profile%20views&color=0e75b6&style=flat" alt="shashankdofficial" /> </p>
 
