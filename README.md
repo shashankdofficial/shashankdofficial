@@ -43,7 +43,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-<p align="center">© 2022 <a href="https://portfolio-bay-ten-70.vercel.app/" target="_blank">Shashank Dubey</a>, all rights reserved. Made with ❤️ for a better web. </p>
+<p align="center">© 2025 <a href="https://portfolio-bay-ten-70.vercel.app/" target="_blank">Shashank Dubey</a>, all rights reserved. Made with ❤️ for a better web. </p>
 ---
 <p align="center">
   © {YEAR} <a href="https://portfolio-bay-ten-70.vercel.app/" target="_blank">Shashank Dubey</a>, 
