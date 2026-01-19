@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  I am a software engineer with <b>2.5+ years of experience</b> building scalable, high-impact applications. I specialize in designing secure REST APIs, optimizing database performance, and creating seamless frontend integrations using <b>Java (Spring Boot)</b> and <b>Node.js</b>.
+  I am a software engineer with <b>3.5+ years of experience</b> building scalable, high-impact applications. I specialize in designing secure REST APIs, optimizing database performance, and creating seamless frontend integrations using <b>Java (Spring Boot)</b> and <b>Node.js</b>.
 </p>
 
 ---
